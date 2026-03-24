@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b5832f0f1a281d",
+        "id": "a3a372dbb3e9da2e",
         "type": "tabs",
         "children": [
           {
-            "id": "18686359ee2277f5",
+            "id": "b323d2cd8c6875e7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,12 +176,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "18686359ee2277f5",
+  "active": "b323d2cd8c6875e7",
   "lastOpenFiles": [
-    "2026-03-19.md",
-    "create a link.md",
-    "Untitled 1.canvas",
+    "Untitled.base",
     "Untitled.canvas",
-    "Welcome.md"
+    "Claude Code/Superpowers Workflow Prompt.md",
+    "Claude Code/Untitled",
+    "Welcome.md",
+    "Claude Code",
+    "Untitled 1.canvas",
+    "2026-03-19.md",
+    "create a link.md"
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c03d5e376ac8dad5",
+        "id": "65931145267d5b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "42bdcacc6f1d6a79",
+            "id": "48fa2beec21d6aaf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,6 +176,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "42bdcacc6f1d6a79",
-  "lastOpenFiles": []
+  "active": "964e1a720048cc65",
+  "lastOpenFiles": [
+    "Work/Untitled.base",
+    "Work/Untitled.canvas",
+    "Work/Claude Code/Untitled",
+    "Work/Claude Code/Superpowers Workflow Prompt.md",
+    "Work/Claude Code",
+    "Work/Claude Code Prompts/Superpowers Workflow Prompt.md",
+    "Work/Claude Code Prompts/Wor.md",
+    "Work/Claude Code Prompts/dá.md",
+    "Work/Claude Code Prompts/Untitled.md",
+    "Work/Claude Code Prompts",
+    "Work/Untitled",
+    "Learning/Welcome.md",
+    "Personal/Welcome.md"
+  ]
 }
