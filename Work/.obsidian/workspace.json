@@ -11,10 +11,14 @@
             "id": "902d33e8e3f82d30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Claude Code/Gstack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gstack"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "902d33e8e3f82d30",
   "lastOpenFiles": [
+    "Claude Code/Gstack.md",
     "Claude Code/Command Slash.md",
     "Claude Code/Superpowers/Superpowers Workflow.md",
     "Claude Code/Superpowers/Superpowers Prompts.md",
