@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffba4486abb3291e",
+        "id": "4ab39b244d399140",
         "type": "tabs",
         "children": [
           {
-            "id": "3833d942d57189ac",
+            "id": "902d33e8e3f82d30",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,17 +176,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "3833d942d57189ac",
+  "active": "902d33e8e3f82d30",
   "lastOpenFiles": [
     "Claude Code/Command Slash.md",
-    "Untitled.base",
-    "Untitled.canvas",
-    "Claude Code/Superpowers Workflow Prompt.md",
-    "Claude Code/Untitled",
-    "Welcome.md",
+    "Claude Code/Superpowers/Superpowers Workflow.md",
+    "Claude Code/Superpowers/Superpowers Prompts.md",
+    "Claude Code/Superpowers/Superpowers Overview.md",
+    "Claude Code/Superpowers Overview.md",
+    "Claude Code/Superpowers",
+    "Claude Code/Superpowers Workflow.md",
+    "Claude Code/Superpowers Prompts.md",
+    "Research.md",
+    "GEO/Untitled.md",
+    "GEO/Untitled 1.md",
+    "GEO",
     "Claude Code",
+    "create a link.md",
+    "Welcome.md",
+    "Untitled.canvas",
     "Untitled 1.canvas",
     "2026-03-19.md",
-    "create a link.md"
+    "Cooking.md"
   ]
 }
