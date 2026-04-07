@@ -11,14 +11,10 @@
             "id": "902d33e8e3f82d30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Claude Code/Gstack.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gstack"
+              "title": "New tab"
             }
           }
         ]
@@ -180,13 +176,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "902d33e8e3f82d30",
+  "active": "2d25563723308296",
   "lastOpenFiles": [
-    "Claude Code/Gstack.md",
-    "Claude Code/Command Slash.md",
-    "Claude Code/Superpowers/Superpowers Workflow.md",
     "Claude Code/Superpowers/Superpowers Prompts.md",
     "Claude Code/Superpowers/Superpowers Overview.md",
+    "Claude Code/Gstack.md",
+    "Claude Code/Superpowers/Superpowers Workflow.md",
+    "Claude Code/Command Slash.md",
     "Claude Code/Superpowers Overview.md",
     "Claude Code/Superpowers",
     "Claude Code/Superpowers Workflow.md",
